@@ -2,7 +2,7 @@
 
 ### Задание 1
 #### Terraform Playbook
-[main.tf](https://github.com/bag2000/netology-terafform2/blob/main/main.tf)
+[main.tf](https://github.com/bag2000/netology-terafform2/blob/main/main.tf)  
 [meta.txt](https://github.com/bag2000/netology-terafform2/blob/main/meta.txt)
 
 #### Скриншот статуса балансировщика и целевой группы.
